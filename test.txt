@@ -1,1 +1,5 @@
-endret
+HEAD
+endre
+1 linje
+2 linje
+min commit
