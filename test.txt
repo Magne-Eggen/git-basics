@@ -1,5 +1,2 @@
-HEAD
-endre
-1 linje
-2 linje
-min commit
+endret igjen
+for branch magne
